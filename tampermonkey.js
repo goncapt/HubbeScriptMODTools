@@ -11,7 +11,7 @@
 (() => {
     'use strict';
 
-    const url = `https://raw.githubusercontent.com/Senhoreuu/modTools/main/script.js?token=GHSAT0AAAAAACLUEJ67QKFRL2WQL4HUVJE4ZOLYCVQ&v=${Date.now()}`;
+    const url = `https://raw.githubusercontent.com/goncapt/HubbeScriptMODTools/main/script.js?v=${Date.now()}`;
 
     fetch(url)
         .then(response => response.text())
