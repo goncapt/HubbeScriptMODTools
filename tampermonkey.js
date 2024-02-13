@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Ferramenta de automatização para MODeradores do Hubbe.biz!
 // @author       Gon & Senhoreu
-// @match        https://hubbe.biz/jogardev
+// @match        https://hubbe.biz/jogar
 // @grant        none
 // ==/UserScript==
 
